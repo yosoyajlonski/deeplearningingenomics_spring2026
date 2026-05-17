@@ -15,7 +15,7 @@ Architectures:
 -Inception CNN
 
 Installation + Requirements:
-To run, execute the cells sequentially in the .ipynb –– that's it! The notebook will show that it is invalid when you click on it. Just download it, and it should run fine. For whatever reason, the preview is showing up incorrectly. 
+To run, execute the cells sequentially in the .ipynb –– that's it! The notebook may show that it is invalid when you initially enter the window. Just download it, and it should run fine. For whatever reason, the preview is showing up incorrectly in some cases. 
 
 If not running in a .ipynb Jupyter notebook, download as a .py and create/activate a conda environment:
 –––––––––––––
